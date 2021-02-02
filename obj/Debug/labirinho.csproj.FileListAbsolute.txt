@@ -1,0 +1,6 @@
+C:\Users\tanulo\source\repos\labirinho\labirinho\bin\Debug\labirinho.exe
+C:\Users\tanulo\source\repos\labirinho\labirinho\bin\Debug\labirinho.pdb
+C:\Users\tanulo\source\repos\labirinho\labirinho\obj\Debug\labirinho.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\labirinho\labirinho\obj\Debug\labirinho.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\labirinho\labirinho\obj\Debug\labirinho.exe
+C:\Users\tanulo\source\repos\labirinho\labirinho\obj\Debug\labirinho.pdb
